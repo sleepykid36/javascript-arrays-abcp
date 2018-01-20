@@ -57,7 +57,7 @@ var tomatoSauceIngredients = [
 ```
 
 ## Creation
-
+push
 JavaScript arrays can contain all types of values and they can be of mixed types. You can create arrays in two different ways, the most common of which is to list values in a pair of square brackets. These are called **array literals**.
 
 ```javascript

@@ -4,6 +4,7 @@ var bar3 = "kit kat"
 var bar4 = "skittles"
 var chocolateBars= [bar1, bar2, bar3, bar4]
 
+<<<<<<< HEAD
 function addElementToBeginningOfArray(array,element){
   return [element,...array]
 }
@@ -44,3 +45,10 @@ function destructivelyRemoveElementFromEndOfArray(array, element) {
 function removeElementFromEndOfArray(array, element) {
   return array.slice(0, array.length - 1)
 }
+=======
+var myArray = [1, 2, 3]
+function addElementToBeginningOfArray{
+  myArray.unshift(5)
+}
+myArray.unshift(5)
+>>>>>>> 8fc45119afaf0a6f7cf3ca4fb634a979bc911236
